@@ -14,6 +14,8 @@ This sheet covers fundamental data cleaning techniques, including:
 
 **Sorting Data:** Arranging names in alphabetical order for better readability.
 
+&nbsp;
+
 **2: Counting Items Based on Certain Criteria**
 
 This sheet focuses on using Excel functions to count occurrences:
@@ -23,6 +25,7 @@ This sheet focuses on using Excel functions to count occurrences:
 **COUNTIFS:** Filtering data based on multiple conditions:
 
 
+&nbsp;
 **3: Lookup Functions for Data Cleaning**
 
 This sheet demonstrates the use of lookup functions to retrieve relevant data:
@@ -30,6 +33,7 @@ This sheet demonstrates the use of lookup functions to retrieve relevant data:
 **VLOOKUP / XLOOKUP:** Finding the country name based on the country code
 
 
+&nbsp;
 **4: Additional Data Cleaning Tasks**
 
 This sheet contains further data cleaning exercises to reinforce the skills learned in the previous practices.
