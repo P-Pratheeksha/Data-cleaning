@@ -26,6 +26,7 @@ This sheet focuses on using Excel functions to count occurrences:
 
 
 &nbsp;
+
 **3: Lookup Functions for Data Cleaning**
 
 This sheet demonstrates the use of lookup functions to retrieve relevant data:
@@ -34,6 +35,7 @@ This sheet demonstrates the use of lookup functions to retrieve relevant data:
 
 
 &nbsp;
+
 **4: Additional Data Cleaning Tasks**
 
 This sheet contains further data cleaning exercises to reinforce the skills learned in the previous practices.
