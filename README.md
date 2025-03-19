@@ -33,7 +33,8 @@ This sheet demonstrates the use of lookup functions to retrieve relevant data:
 
 **VLOOKUP / XLOOKUP:** Finding the country name based on the country code
 
-&nbsp
+
+&nbsp;
 
 
 **4: Additional Data Cleaning Tasks**
