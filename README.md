@@ -33,6 +33,14 @@ This sheet demonstrates the use of lookup functions to retrieve relevant data:
 
 **VLOOKUP / XLOOKUP:** Finding the country name based on the country code
 
+&nbsp
+
+**Practice Data Sources**
+[How to Clean Data in Excel - MyOnlineTrainingHub](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0dCZEV2dGFqRU9hTktGWDg5QlQ5OVBlV0o3UXxBQ3Jtc0tsV2wyd09MeVd1N0dkc041STRHV2JHWHVvRVg3ZHEwa3RYX2pPN0JXTFRlTE93T01oeWlfWWRuSnh3UUluLThQc3BscHJpV1BSUGhmZUZqMkhUbVRUWnBCb0U3YW96YkV2UzFUS0g1N3llRkFoelJqRQ&q=https%3A%2F%2Fwww.myonlinetraininghub.com%2Fhow-to-clean-data-in-excel&v=oT4emh72fuA)
+
+
+[Flodesk Data Cleaning Practice Files](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTFDZFdEMlFfeTNabWtYTWtkek53ajZNZGgyQXxBQ3Jtc0tuTlY5eVRFRXR5cFJaSVlZSk9YQ2RoNmZtT2xBSlNjLWNtdHJxV0NXR2JCLVdOanJobEJ4bk1JWm93Y0VabF9iVldycEVRcmhRVlZOZk9Wbk9RX1FCSWFabm1jOVQ4RHZadXNjV002ODBDZU9vQlA3dw&q=https%3A%2F%2Fview.flodesk.com%2Fpages%2F6482f5f2547f639e72ba553c&v=jxq4-KSB_OA]
+
 
 &nbsp;
 
